@@ -15,6 +15,7 @@ namespace RPGgame.Objects
             base.OnInit();
             name = "Map";
 
+
         }
         public override void OnUpdate(GameTime gameTime)
         {
